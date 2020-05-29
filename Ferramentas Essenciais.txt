@@ -1,12 +1,13 @@
 Ferramentas Essencias
 
-- Gerador QR Code
+[Gerador QR Code]
 https://app.qr-code-generator.com/
 
-- Live
+[Live]
 https://streamyard.com/
 
 [WhatsApp] FESAI Interpretes
 https://chat.whatsapp.com/LxFX1Mpv4yoCgpErwNm4WD
 
 [Telegram] FESAI Labs
+https://t.me/joinchat/A8gn6hKYOmCxqUM2ddepbQ
