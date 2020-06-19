@@ -1,13 +1,3 @@
-Ferramentas Essencias
-
-[Gerador QR Code]
-https://app.qr-code-generator.com/
-
-[Live]
-https://streamyard.com/
-
-[WhatsApp] FESAI Interpretes
-https://chat.whatsapp.com/LxFX1Mpv4yoCgpErwNm4WD
-
-[Telegram] FESAI Labs
-https://t.me/joinchat/A8gn6hKYOmCxqUM2ddepbQ
+version https://git-lfs.github.com/spec/v1
+oid sha256:8f346a5babdead8bc72232667d40e5df111960154b7c7b6ee633bf60c6a1c1e6
+size 254
